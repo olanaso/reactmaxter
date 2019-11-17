@@ -1,0 +1,25 @@
+
+Tareas REACT JS - REDUX
+=======================
+MAX AYACC
+Token Based Autentication
+Profesor Administration
+
+NIEL
+Filter Course List
+Hide Empty Course List
+
+JOAO
+Unsaved Change Message
+Enhange Validation
+
+VLADIMIR
+Handle 404 on Edit Courso
+Show # Courses in Header
+
+REYNALDO CLAROS
+Pagination
+Short Course Table
+
+DINORAH
+Revert Abandoned Changes
